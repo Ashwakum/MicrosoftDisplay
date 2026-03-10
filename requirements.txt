@@ -1,0 +1,5 @@
+openai>=1.0.0
+tkinterweb>=3.9.0
+pywin32>=306
+pyaudio>=0.2.13
+azure-cognitiveservices-speech>=1.35.0
